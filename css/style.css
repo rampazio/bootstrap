@@ -1,0 +1,33 @@
+.navbar {
+    background-color:red;
+    color: #000;
+}
+
+.quem-somos {
+    background-color: #5e54e2;
+    font-size: large;
+    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: ;
+}
+
+.margin{
+ padding-top: 50px; 
+ padding-bottom: 50px;
+}
+
+.parceiros{
+    background-color: rgb(66, 66, 112);
+
+}
+
+.serviços{
+    background-color: rgb(42, 175, 37);
+    padding-top: 50px; 
+    padding-bottom: 50px;
+}
+
+.bgfooter{
+    background-color: black;
+    color: aliceblue;
+}
